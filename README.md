@@ -29,3 +29,4 @@ For transfer learning we chose level 1-1 (left) as the source and level 1-2 (rig
 ---
 # Video Presentation
 
+[Click here](https://myshare.uni-osnabrueck.de/f/58616b38b8584804a4bc/) to get to a video presentation of our project held by Thorsten Krause.
