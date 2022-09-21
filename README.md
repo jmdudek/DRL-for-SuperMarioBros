@@ -19,14 +19,41 @@ For transfer learning we chose level 1-1 (left) as the source and level 1-2 (rig
 ---
 # Model Architecture
 
-The following figure visualizes our CNN backbone architecture employed in both our DDQN and SQN.
+The following figure visualizes our CNN backbone architecture employed in both our DDQN and SoftQN.
 
 <p float="left">
   <img src="https://github.com/jmdudek/DRL-for-SuperMarioBros/blob/main/Visualizations/model_architecture.jpg" width="300" />
 </p>
 
+---
+# Performance on Level 1-1
+
+DDQN:
+<p float="left">
+  <img src="https://github.com/jmdudek/DRL-for-SuperMarioBros/blob/main/DDQN%20Results/DDQN_1-1_rewards.png" height="300" />
+  <img src="https://github.com/jmdudek/DRL-for-SuperMarioBros/blob/main/DDQN%20Results/DDQN_1-1_wins.png" height="300" />
+</p>
+
+SoftQN:
+<p float="left">
+  <img src="https://github.com/jmdudek/DRL-for-SuperMarioBros/blob/main/SoftQN%20Results/SoftQ_1-1_rewards.png" height="300" >
+  <img src="https://github.com/jmdudek/DRL-for-SuperMarioBros/blob/main/SoftQN%20Results/SoftQ_1-1_wins.png" height="300" />
+</p>
+
 --- 
-# Results
+# Performance on Level 1-2
+
+DDQN:
+<p float="left">
+  <img src="https://github.com/jmdudek/DRL-for-SuperMarioBros/blob/main/DDQN%20Results/DDQN_1-2_rewards.png" height="300" />
+  <img src="https://github.com/jmdudek/DRL-for-SuperMarioBros/blob/main/DDQN%20Results/DDQN_1-2_wins.png" height="300" />
+</p>
+
+SoftQN:
+<p float="left">
+  <img src="https://github.com/jmdudek/DRL-for-SuperMarioBros/blob/main/SoftQN%20Results/SoftQ_1-2_rewards.png" height="300" >
+  <img src="https://github.com/jmdudek/DRL-for-SuperMarioBros/blob/main/SoftQN%20Results/SoftQ_1-2_wins.png" height="300" />
+</p>
 
 ---
 # Video Presentation
