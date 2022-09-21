@@ -19,6 +19,8 @@ For transfer learning we chose level 1-1 (left) as the source and level 1-2 (rig
 ---
 # Model Architecture
 
+The following figure visualizes our CNN backbone architecture employed in both our DDQN and SQN.
+
 <p float="left">
   <img src="https://github.com/jmdudek/DRL-for-SuperMarioBros/blob/main/Visualizations/model_architecture.jpg" width="300" />
 </p>
