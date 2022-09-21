@@ -30,14 +30,14 @@ The following figure visualizes our CNN backbone architecture employed in both o
 
 DDQN:
 <p float="left">
-  <img src="https://github.com/jmdudek/DRL-for-SuperMarioBros/blob/main/DDQN%20Results/DDQN_1-1_rewards.png" height="300" />
-  <img src="https://github.com/jmdudek/DRL-for-SuperMarioBros/blob/main/DDQN%20Results/DDQN_1-1_wins.png" height="300" />
+  <img src="https://github.com/jmdudek/DRL-for-SuperMarioBros/blob/main/DDQN%20Results/DDQN_1-1_rewards.png" height="200" />
+  <img src="https://github.com/jmdudek/DRL-for-SuperMarioBros/blob/main/DDQN%20Results/DDQN_1-1_wins.png" height="200" />
 </p>
 
 SoftQN:
 <p float="left">
-  <img src="https://github.com/jmdudek/DRL-for-SuperMarioBros/blob/main/SoftQN%20Results/SoftQ_1-1_rewards.png" height="300" >
-  <img src="https://github.com/jmdudek/DRL-for-SuperMarioBros/blob/main/SoftQN%20Results/SoftQ_1-1_wins.png" height="300" />
+  <img src="https://github.com/jmdudek/DRL-for-SuperMarioBros/blob/main/SoftQN%20Results/SoftQ_1-1_rewards.png" height="200" >
+  <img src="https://github.com/jmdudek/DRL-for-SuperMarioBros/blob/main/SoftQN%20Results/SoftQ_1-1_wins.png" height="200" />
 </p>
 
 --- 
@@ -45,14 +45,14 @@ SoftQN:
 
 DDQN:
 <p float="left">
-  <img src="https://github.com/jmdudek/DRL-for-SuperMarioBros/blob/main/DDQN%20Results/DDQN_1-2_rewards.png" height="300" />
-  <img src="https://github.com/jmdudek/DRL-for-SuperMarioBros/blob/main/DDQN%20Results/DDQN_1-2_wins.png" height="300" />
+  <img src="https://github.com/jmdudek/DRL-for-SuperMarioBros/blob/main/DDQN%20Results/DDQN_1-2_rewards.png" height="200" />
+  <img src="https://github.com/jmdudek/DRL-for-SuperMarioBros/blob/main/DDQN%20Results/DDQN_1-2_wins.png" height="200" />
 </p>
 
 SoftQN:
 <p float="left">
-  <img src="https://github.com/jmdudek/DRL-for-SuperMarioBros/blob/main/SoftQN%20Results/SoftQ_1-2_rewards.png" height="300" >
-  <img src="https://github.com/jmdudek/DRL-for-SuperMarioBros/blob/main/SoftQN%20Results/SoftQ_1-2_wins.png" height="300" />
+  <img src="https://github.com/jmdudek/DRL-for-SuperMarioBros/blob/main/SoftQN%20Results/SoftQ_1-2_rewards.png" height="200" >
+  <img src="https://github.com/jmdudek/DRL-for-SuperMarioBros/blob/main/SoftQN%20Results/SoftQ_1-2_wins.png" height="200" />
 </p>
 
 ---
