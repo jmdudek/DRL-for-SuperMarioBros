@@ -16,6 +16,10 @@ For transfer learning we chose level 1-1 (left) as the source and level 1-2 (rig
   <img src="https://github.com/jmdudek/DRL-for-SuperMarioBros/blob/main/Visualizations/level_1_2.png" width="300" />
 </p>
 
+## Preprocessing
+The agents received the game state as a normalized, rescaled 84x84 grey-scale picture and drew from a restricted action space of five actions: (1) *idle*, (2) *move right*, (3) *jump right*, (4) *move right and throw a fire ball*, (5) *jump right and throw a fireball*. 
+As consecutive frames are highly correlated, we accelerated training by repeating each action over four frames and passing the corresponding states as a stacked 4x84x84 image.
+
 ---
 # Model Architecture
 
