@@ -32,13 +32,17 @@ The following figure visualizes our CNN backbone architecture employed in both o
 ---
 # Performance on Level 1-1
 
-DDQN:
+**DDQN:**
+
+https://user-images.githubusercontent.com/64210838/191992084-521a2a28-1702-45b4-a2ce-54140317105e.mp4
 <p float="left">
   <img src="https://github.com/jmdudek/DRL-for-SuperMarioBros/blob/main/DDQN%20Results/DDQN_1-1_rewards.png" height="220" />
   <img src="https://github.com/jmdudek/DRL-for-SuperMarioBros/blob/main/DDQN%20Results/DDQN_1-1_wins.png" height="220" />
 </p>
 
-SoftQN:
+**SoftQN:**
+
+https://user-images.githubusercontent.com/64210838/191992321-09f5b461-77f4-4958-904d-d7f9190b264a.mp4
 <p float="left">
   <img src="https://github.com/jmdudek/DRL-for-SuperMarioBros/blob/main/SoftQN%20Results/SoftQ_1-1_rewards.png" height="220" >
   <img src="https://github.com/jmdudek/DRL-for-SuperMarioBros/blob/main/SoftQN%20Results/SoftQ_1-1_wins.png" height="220" />
@@ -46,14 +50,25 @@ SoftQN:
 
 --- 
 # Performance on Level 1-2
+Note that with the label "untrained" we are referring to models that have been trained from scratch on Level 1-2 without any knowledge transfer.
 
-DDQN:
+**DDQN:**
+
+https://user-images.githubusercontent.com/64210838/191992553-913f510a-3d7f-4aa7-aa77-4c6d96e8652a.mp4
+
+https://user-images.githubusercontent.com/64210838/191992794-aaea2f26-b1b8-4cc8-9ec3-b1b583a0900a.mp4
+
 <p float="left">
   <img src="https://github.com/jmdudek/DRL-for-SuperMarioBros/blob/main/DDQN%20Results/DDQN_1-2_rewards.png" height="220" />
   <img src="https://github.com/jmdudek/DRL-for-SuperMarioBros/blob/main/DDQN%20Results/DDQN_1-2_wins.png" height="220" />
 </p>
 
-SoftQN:
+**SoftQN:**
+
+https://user-images.githubusercontent.com/64210838/191992600-ce6dbcb2-91bf-45be-844f-2dc74c9827bd.mp4
+
+https://user-images.githubusercontent.com/64210838/191993004-352e4703-e9d5-4992-bb78-d99ed9f2ba5c.mp4
+
 <p float="left">
   <img src="https://github.com/jmdudek/DRL-for-SuperMarioBros/blob/main/SoftQN%20Results/SoftQ_1-2_rewards.png" height="220" >
   <img src="https://github.com/jmdudek/DRL-for-SuperMarioBros/blob/main/SoftQN%20Results/SoftQ_1-2_wins.png" height="220" />
